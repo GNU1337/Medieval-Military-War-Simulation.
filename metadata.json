@@ -1,0 +1,6 @@
+{
+  "name": "War-Master",
+  "description": "Tactical Military Swarm Simulation with AI War Briefings and Workspace Integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
